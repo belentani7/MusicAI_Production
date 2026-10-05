@@ -28,7 +28,7 @@ pyworld==0.3.4
 fairseq==0.12.2
 speechbrain==1.0.0
 huggingface-hub==0.25.2
-transformers==4.45.2
+transformers==5.10.1
 accelerate==0.34.2
 sentencepiece==0.2.0
 tokenizers==0.20.3
