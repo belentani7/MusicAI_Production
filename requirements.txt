@@ -50,7 +50,7 @@ einops==0.8.0
 kornia==0.7.2
 
 # Web UI / API
-gradio==5.5.0
+gradio==6.16.0
 fastapi==0.115.0
 uvicorn==0.30.6
 websockets==13.1
